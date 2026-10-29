@@ -15,7 +15,7 @@ A Paper/Spigot 1.16.5 plugin that records ShopGUI+ buy/sell transactions and sho
 
 ## Getting started
 
-Requirements: JDK 11, Maven, and `lib/spigot-1.16.5.jar`.
+Requirements: JDK 11, Maven, and `spigot-1.16.5.jar` placed in `lib/` (not committed; build it with [BuildTools](https://www.spigotmc.org/wiki/buildtools/)).
 
 ```bash
 mvn package
